@@ -1,0 +1,26 @@
+{
+  "name": "bil-tools",
+  "version": "1.0.0",
+  "description": "Just Try !",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabilhnzm354"
+  },
+  "keywords": [
+    "X-TOOLS"
+  ],
+  "author": "X-MrG3P5",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.0",
+    "google-it": "^1.6.2",
+    "prompt-sync": "^4.2.0",
+    "whois-json": "^2.0.4"
+  }
+}
